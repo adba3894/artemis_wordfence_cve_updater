@@ -1,6 +1,6 @@
 **WordPress Vulnerability CVE Enrichment Script for Artemis Scans**
 
-This Python script is dedicated to adding CVE (Common Vulnerabilities and Exposures) codes for WordPress vulnerabilities detected during vulnerability scans performed by Artemis. The script automatically enhances Artemis scan results by retrieving detailed vulnerability information from the Wordfence API and updating the original JSON output with relevant CVE data.
+This Python script is dedicated to adding CVE (Common Vulnerabilities and Exposures) codes for WordPress vulnerabilities detected during vulnerability scans performed by Artemis (https://cert.pl/en/posts/2024/01/artemis-security-scanner/). The script automatically enhances Artemis scan results by retrieving detailed vulnerability information from the Wordfence API and updating the original JSON output with relevant CVE data.
 
 **How It Works:**
 
